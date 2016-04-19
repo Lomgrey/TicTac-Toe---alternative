@@ -1,0 +1,9 @@
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\bin\Debug\TicTacToe_New.exe.config
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\bin\Debug\TicTacToe_New.exe
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\bin\Debug\TicTacToe_New.pdb
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\obj\Debug\TicTacToe_New.csprojResolveAssemblyReference.cache
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\obj\Debug\TicTacToe_New.Form1.resources
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\obj\Debug\TicTacToe_New.Properties.Resources.resources
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\obj\Debug\TicTacToe_New.csproj.GenerateResource.Cache
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\obj\Debug\TicTacToe_New.exe
+C:\Проекты\C#\TicTacToe_New\TicTacToe_New\obj\Debug\TicTacToe_New.pdb
